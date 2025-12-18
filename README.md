@@ -16,9 +16,6 @@ Setelah login berhasil, sistem menyimpan data pengguna ke dalam session. Halaman
 
 ### <img width="1920" height="1200" alt="Screenshot 2025-12-18 162828" src="https://github.com/user-attachments/assets/5746c2a4-1a4c-4ce4-a2f9-e4a4e2b783ee" />
 
-### <img width="1920" height="1200" alt="Screenshot 2025-12-18 162841" src="https://github.com/user-attachments/assets/15080da8-084e-4f02-b1eb-48aa0243b35b" />
-
-### <img width="1920" height="1200" alt="Screenshot 2025-12-18 163117" src="https://github.com/user-attachments/assets/5974a468-e1c1-4729-8a53-f456cbcbe089" />
 
 ## 3. CRUD Artikel (Create, Read, Update, Delete)
 Mahasiswa membuat fitur pengelolaan artikel yang terdiri dari:
